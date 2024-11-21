@@ -12,3 +12,8 @@ STENO_PROTOCOL = geminipr
 KEYBOARD_SHARED_EP = yes
 SPACE_CADET_ENABLE = no
 COMBO_ENABLE = yes
+
+
+# Achordian Rules
+SRC += features/achordion.c
+
